@@ -1,4 +1,4 @@
-|-|
+|--|
 |**Project Title:** Webserver Marconi|
 |**Start Date:** 24/10/2019|
 |**End Date:** 31/05/2020|
