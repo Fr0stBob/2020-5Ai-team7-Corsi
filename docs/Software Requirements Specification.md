@@ -1,8 +1,5 @@
-﻿<center> Software Requirements Specification
-<center>For
-<center>Team 7
-<center>January 4, 2020
-<center>Version 1
+﻿# Software Requirements Specification For Team 7
+ **January 4, 2020 Version 1**
 <br>
 <br>
 <br>
