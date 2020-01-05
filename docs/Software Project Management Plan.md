@@ -1,4 +1,4 @@
-﻿## Software Project Management Plan
+## Software Project Management Plan
 <br>**Team 7**
 January 05, 2020
 
@@ -40,26 +40,10 @@ January 05, 2020
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-**Team Members**
-Matteo Corsi
-Riccardo Convertino
-Tommaso Osti
+**Team Members**<br>
+Matteo Corsi<br>
+Riccardo Convertino<br>
+Tommaso Osti<br>
 Riccardo Scardoni
 
 <br>
@@ -116,52 +100,36 @@ Matteo Corsi is responsible for developing and maintaining this document.
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
 ## Table of Contents
-**1 OVERVIEW** 4
-1.1 Purpose and Scope
-1.2 Goals and Objectives
-1.3 Project Deliverables
-1.4 Assumptions and Constraints
-&nbsp; &nbsp; 1.4.1 Assumptions
-&nbsp; &nbsp; 1.4.2 Constraints
-1.5 Budget Summary
-&nbsp;  &nbsp; 1.5.1 Cost Estimate
-1.6 Success Criteria
-**2 STARTUP PLAN**  5
-2.1 Team Organization
-2.2 Project Communications
-2.3 Technical Process
-2.4 Tools
-**3 WORK PLAN** 6
-3.1 Resource Estimate
-3.2 Release Plan
-&nbsp; &nbsp; 3.2.1 Plan by Feature
-3.3 Iteration Plans
-&nbsp; &nbsp; 3.3.1 First Iteration
-&nbsp; &nbsp; 3.3.2 Second Iteration and Final Product
-**4 CONTROL PLAN** 7
-4.1 Monitoring and Control
-4.2 Configuration Management Plan
-**5 SUPPORTING PROCESS PLANS** 9
-5.1 Risk Management Plan
-5.2 Test Plan
-5.3 Product Acceptance Plan
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
+**1 OVERVIEW** 3<br>
+1.1 Purpose and Scope<br>
+1.2 Goals and Objectives<br>
+1.3 Project Deliverables<br>
+1.4 Assumptions and Constraints<br>
+&nbsp; &nbsp; 1.4.1 Assumptions<br>
+&nbsp; &nbsp; 1.4.2 Constraints<br>
+1.5 Budget Summary<br>
+&nbsp;  &nbsp; 1.5.1 Cost Estimate<br>
+1.6 Success Criteria<br>
+**2 STARTUP PLAN**  4<br>
+2.1 Team Organization<br>
+2.2 Project Communications<br>
+2.3 Technical Process<br>
+2.4 Tools<br>
+**3 WORK PLAN** 5<br>
+3.1 Resource Estimate<br>
+3.2 Release Plan<br>
+&nbsp; &nbsp; 3.2.1 Plan by Feature<br>
+3.3 Iteration Plans<br>
+&nbsp; &nbsp; 3.3.1 First Iteration<br>
+&nbsp; &nbsp; 3.3.2 Second Iteration and Final Product<br>
+**4 CONTROL PLAN** 6<br>
+4.1 Monitoring and Control<br>
+4.2 Configuration Management Plan<br>
+**5 SUPPORTING PROCESS PLANS** 7<br>
+5.1 Risk Management Plan<br>
+5.2 Test Plan<br>
+5.3 Product Acceptance Plan<br>
 
 ## 1 OVERVIEW
 ### 1.1 Purpose and Scope
