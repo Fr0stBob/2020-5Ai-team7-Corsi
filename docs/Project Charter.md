@@ -10,12 +10,7 @@
 |**Users:** Students, student's parents and teachers|
 |**Stakeholders and Expectations:**<br>Team: Give students, teachers and parents an easy access to  all Marconi's utilities.<br>Teachers: Make team members project and develop a website useful for the school.<br>ITIS Marconi: Obtaining an improved version of the actual Webserver.|
 |**Purpose(Problem or opportunity addressed by the project):**<br>All the users of the Webserver will have a quick way to access all the utilities of the school. Using the Campus account credentials students will be able to access to all the private utilities invisible otherwise like the school timetable and the private news.|
-|**Goals and Objectives:** The overall goal is to give students an alternative way to access all the school's utilities. The website is expected to:
-* Provide a web interface where students can access services using Campus Marconi credentials.
-* Giving students, teachers and parents a place where they have grouped all the services provided by the school.
-
-|  |  
-|--|
+|**Goals and Objectives:** The overall goal is to give students an alternative way to access all the school's utilities.<br>The website is expected to:<br>Provide a web interface where students can access services using Campus Marconi credentials.<br>Giving students, teachers and parents a place where they have grouped all the services provided by the school.|
 |**Schedule Information(Major milestones and deliverables):**<br>24/10/2019 - Graphic design of the Webserver<br>07/11/2019 - Starting creation of the renewed image of the school, starting creation of the main buttons<br>14/11/2019 - Inserted school inscription and starting the  developement of the sidenav<br>21/11/2019 - Inserted time and date section of the sidenav<br>28/11/2019 - Starting development of the Orario and Info section<br>05/12/2019 - Continuation of the development of the Orario section<br>12/12/2019 - Testing interaction with PHP and SQL<br>19/12/2019 - Delivery of the first prototype of the project|
 |**Financial Information(Cost estimate and budget information):**<br>None|
 |**Project Priorities and degree of freedom:**<br>All the actions are at the discretion of the team members. Roles are changeable based on workloads of individual team members. Roles are expected to shift throughout the project as needs arise.|
