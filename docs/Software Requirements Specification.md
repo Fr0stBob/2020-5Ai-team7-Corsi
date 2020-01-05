@@ -46,8 +46,9 @@ Matteo Corsi
 <br>
 
 **Revision History**
+
 | Version | Date | Name | Description |
-|--|--|--|--|
+|-|-|-|-|
 | 1 | 04/01/2020 | Matteo Corsi | Initial document |
 
 
