@@ -10,7 +10,7 @@
 |**Users:** Students, student's parents and teachers|
 |**Stakeholders and Expectations:**<br>Team: Give students, teachers and parents an easy access to  all Marconi's utilities.<br>Teachers: Make team members project and develop a website useful for the school.<br>ITIS Marconi: Obtaining an improved version of the actual Webserver.|
 |**Purpose(Problem or opportunity addressed by the project):**<br>All the users of the Webserver will have a quick way to access all the utilities of the school. Using the Campus account credentials students will be able to access to all the private utilities invisible otherwise like the school timetable and the private news.|
-|**Goals and Objectives:** The oveerall goal is to give students an alternative way to access all the school's utilities. The website is expected to:
+|**Goals and Objectives:** The overall goal is to give students an alternative way to access all the school's utilities. The website is expected to:
 * Provide a web interface where students can access services using Campus Marconi credentials.
 * Giving students, teachers and parents a place where they have grouped all the services provided by the school.
 
