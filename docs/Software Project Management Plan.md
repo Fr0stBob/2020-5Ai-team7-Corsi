@@ -51,10 +51,11 @@ Riccardo Scardoni
 Document Control
 
 **Change History**
+
 |Revision|Change Date|Description of changes|
-|--|--|--|
+|---|---|---|
 |v1.0|05/01/2020|Initial release|
-|  |  |  |
+
 
 **Document Storage**
 This document is stored in the project documentation's GitHub repository at: [https://github.com/Fr0stBob/2020-5Ai-team7-Corsi/tree/master/docs](https://github.com/Fr0stBob/2020-5Ai-team7-Corsi/tree/master/docs)
@@ -164,17 +165,20 @@ None
 The project will be considered succesful if the minimum functionalities and the login section will work completely at the end of the school year.
 ## 2 Startup Plan
 ### 2.1 Team Organization
-|Role|Actor(s)|Responsibility|
-|-|-|-|
-|Project Manager|Matteo|Coordinate communications inside and outside group and assign work to teammates.|
-|Developer and programmer|Matteo, Riccardo C., Riccardo S.|Develop and program software based on requirements.|
-|Designer|Tommaso|Specify overall visual design of the project and create all media necessary to the project.|
-|Tester|Matteo, Riccardo C., Tommaso, Riccardo S.|Write test cases and perform testing of test cases, report issues.|
+
+| Role | Actor(s) | Responsibility |
+| --- | --- | --- |
+| Project Manager | Matteo |Coordinate communications inside and outside group and assign work to teammates. |
+| Developer and programmer | Matteo, Riccardo C., Riccardo S. | Develop and program software based on requirements. |
+| Designer | Tommaso | Specify overall visual design of the project and create all media necessary to the project. |
+| Tester | Matteo, Riccardo C., Tommaso, Riccardo S. | Write test cases and perform testing of test cases, report issues. |
 ### 2.2 Project Communications
+
 |Event|Information|Audience|Format|Frequency|
-|-|-|-|-|-|
+| --- | --- | --- | --- | --- |
 |Team Meeting|Task status: completed since last week & planned for next week, obstacles encountered, change requests in process |All team members|Informal meetings|As needed|
 |Project Status Report|Review finished items, status of prototype; review any problems, schedule slippage, programming issues|All team members, customer|Formal meeting and multimedia presentation|Iteration Closeout|
+
 ### 2.3 Technical Process
 An iterative and incremental development process is planned.  Feedback will be used from each iteration to improve the next.  The first iteration will focus on basic functionality of the application.  Subsequent iterations will build upon that and incorporate more features as time allows.
 2.4 Tools
@@ -187,11 +191,13 @@ An iterative and incremental development process is planned.  Feedback will be u
 In this document, tasks, roles, owners, and effort estimates & actuals are listed.
 ### 3.2 Release Plan
 #### 3.2.1 Plan by Feature
-**Iteration #1:** 24/10/2019 - 19/12/2019
+**Iteration 1:** 24/10/2019 - 19/12/2019
+
 **Summary:** Demonstrate fundamental architecture and design,   
 each section except the timetable section working.
+
 |Features/Deliverables|Estimated effort|Actual Effort|
-|-|-|-|-|
+| --- | --- | --- |
 |Architecture and overall design| 40|40|
 |Functioning sections|50|70|
 **Iteration #2:** 09/01/2020 - 23/04/2020
