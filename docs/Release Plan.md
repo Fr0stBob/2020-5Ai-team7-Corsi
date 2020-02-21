@@ -6,18 +6,18 @@
 | --- | --- | --- |
 | M. Corsi | 21/01/2020 | Initial release |
 
-### Release Summary
-#### Initiation
+## Release Summary
+### Initiation
 Iteration #1 (): 
-#### Elaboration
+### Elaboration
 Iteration #2 ():
-#### Construction
+### Construction
 Iteration #3 ():
 Iteration #4 ():
 Iteration #5 ():
-#### Transition
+### Transition
 Iteration # (): Problems resoltion and debug
 
-### Iteration #1
+## Iteration #1
 **Objective:** The purpose of this iteration is to understand system requirements to provide cost and schedule estimation for the project.
 
