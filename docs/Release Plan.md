@@ -8,7 +8,7 @@
 
 ## Release Summary
 ### Initiation
-Iteration #1 (): 
+Iteration #1 (): Requirements Exploration and Baseline Architecture
 ### Elaboration
 Iteration #2 ():
 ### Construction
