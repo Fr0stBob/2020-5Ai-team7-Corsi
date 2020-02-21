@@ -8,15 +8,15 @@
 
 ## Release Summary
 ### Initiation
-Iteration #1 (): Requirements Exploration and Baseline Architecture
+Iteration #1 ( - ): Requirements Exploration and Baseline Architecture
 ### Elaboration
-Iteration #2 ():
+Iteration #2 ( - ):
 ### Construction
-Iteration #3 ():  
-Iteration #4 ():  
-Iteration #5 ():  
+Iteration #3 ( - ):  
+Iteration #4 ( - ):  
+Iteration #5 ( - ):  
 ### Transition
-Iteration # (): Problems resoltion and debug
+Iteration # ( - ): Problems resoltion and debug
 
 ## Iteration #1
 **Objective:** The purpose of this iteration is to understand system requirements to provide cost and schedule estimation for the project.
