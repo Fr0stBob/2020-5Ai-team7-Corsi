@@ -38,7 +38,7 @@ Iteration # (): Problems resoltion and debug
 |  |  |  |
 
 ## Iteration #3
-**Objective:** The purpose of this iteration is to 
+**Objective:** The purpose of this iteration is to implement basic client-side functionality and graphical aspect
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
@@ -47,4 +47,3 @@ Iteration # (): Problems resoltion and debug
 |  |  |  |
 |  |  |  |
 
-## Iteration #
