@@ -21,3 +21,30 @@ Iteration # (): Problems resoltion and debug
 ## Iteration #1
 **Objective:** The purpose of this iteration is to understand system requirements to provide cost and schedule estimation for the project.
 
+| Features / Activities / Deliverables | Estimated Effort | Actual Effort |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## Iteration #2
+**Objective:** The purpose of this iteration is to 
+
+| Features / Activities / Deliverables | Estimated Effort | Actual Effort |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## Iteration #3
+**Objective:** The purpose of this iteration is to 
+
+| Features / Activities / Deliverables | Estimated Effort | Actual Effort |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## Iteration #
