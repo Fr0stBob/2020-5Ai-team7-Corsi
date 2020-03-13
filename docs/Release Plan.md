@@ -12,8 +12,8 @@ Iteration #1 ( - ): Requirements Exploration and Baseline Architecture
 ### Elaboration
 Iteration #2 ( - ):
 ### Construction
-Iteration #3 (13/03/2020 - 02/04/2020):
-Iteration #4 (03/04/2020 - 09/04/2020):
+Iteration #3 (13/03/2020 - 02/04/2020):  
+Iteration #4 (03/04/2020 - 09/04/2020):  
 Iteration #5 (10/04/2020 - 16/04/2020):  
 Iteration #6 (17/04/2020 - 30/04/2020):  
 Iteration #7 (01/05/2020 - 07/05/2020):  
