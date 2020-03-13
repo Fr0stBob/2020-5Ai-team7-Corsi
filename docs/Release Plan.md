@@ -12,11 +12,13 @@ Iteration #1 ( - ): Requirements Exploration and Baseline Architecture
 ### Elaboration
 Iteration #2 ( - ):
 ### Construction
-Iteration #3 ( - ):  
-Iteration #4 ( - ):  
-Iteration #5 ( - ):  
+Iteration #3 (13/03/2020 - 02/04/2020):
+Iteration #4 (03/04/2020 - 09/04/2020):
+Iteration #5 (10/04/2020 - 16/04/2020):  
+Iteration #6 (17/04/2020 - 30/04/2020):  
+Iteration #7 (01/05/2020 - 07/05/2020):  
 ### Transition
-Iteration # ( - ): Problems resoltion and debug
+Iteration # (07/05/2020 - ): Problems resoltion and debug
 
 ## Iteration #1
 **Objective:** The purpose of this iteration is to understand system requirements to provide cost and schedule estimation for the project.
@@ -38,7 +40,7 @@ Iteration # ( - ): Problems resoltion and debug
 |  |  |  |
 
 ## Iteration #3
-**Objective:** The purpose of this iteration is to implement basic client-side functionality and graphical aspect
+**Objective:** The purpose of this iteration is to
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
@@ -47,3 +49,21 @@ Iteration # ( - ): Problems resoltion and debug
 |  |  |  |
 |  |  |  |
 
+## Iteration #4
+**Objective:** The purpose of this iteration is to 
+
+| Features / Activities / Deliverables | Estimated Effort | Actual Effort |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+## Iteration #5
+**Objective:** The purpose of this iteration is to
+| Features / Activities / Deliverables | Estimated Effort | Actual Effort |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
