@@ -15,10 +15,13 @@ Iteration #2 ( - ):
 Iteration #3 (13/03/2020 - 02/04/2020):  
 Iteration #4 (03/04/2020 - 09/04/2020):  
 Iteration #5 (10/04/2020 - 16/04/2020):  
-Iteration #6 (17/04/2020 - 30/04/2020):  
-Iteration #7 (01/05/2020 - 07/05/2020):  
-### Transition
-Iteration # (07/05/2020 - ): Problems resoltion and debug
+Iteration #6 (17/04/2020 - 30/04/2020):
+### Second initiation
+Iteration #7 ():  
+### Second elaboration
+Iteration #7 ():  
+### Second transition
+Iteration #8 (07/05/2020 - ): Problems resoltion and debug
 
 ## Iteration #1
 **Objective:** The purpose of this iteration is to understand system requirements to provide cost and schedule estimation for the project.
