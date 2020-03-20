@@ -94,6 +94,7 @@ The project will be considered succesful if the minimum functionalities and the 
 | Developer and programmer | Matteo, Riccardo C., Riccardo S. | Develop and program software based on requirements. |
 | Designer | Tommaso | Specify overall visual design of the project and create all media necessary to the project. |
 | Tester | Matteo, Riccardo C., Tommaso, Riccardo S. | Write test cases and perform testing of test cases, report issues. |
+
 ### 2.2 Project Communications
 
 | Event | Information | Audience | Format | Frequency |
@@ -124,6 +125,7 @@ each section except the timetable section working.
 | Functioning sections | 50 | 70 |
 
 **Iteration #2:** 09/01/2020 - 23/04/2020
+
 **Summary:** Login section and private area functioning, orario section functioning.
 
 | Features/Deliverables | Estimated effort | Actual Effort |
