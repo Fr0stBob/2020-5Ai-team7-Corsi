@@ -127,7 +127,7 @@ each section except the timetable section working.
 **Summary:** Login section and private area functioning, orario section functioning.
 
 | Features/Deliverables | Estimated effort | Actual Effort |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Login section and private area | 50 |  |
 | Timetable section | 70 |  |
 
