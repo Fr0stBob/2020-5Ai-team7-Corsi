@@ -122,12 +122,15 @@ each section except the timetable section working.
 | --- | --- | --- |
 | Architecture and overall design | 40 | 40 |
 | Functioning sections | 50 | 70 |
+
 **Iteration #2:** 09/01/2020 - 23/04/2020
 **Summary:** Login section and private area functioning, orario section functioning.
+
 | Features/Deliverables | Estimated effort | Actual Effort |
 | --- | --- | --- | --- |
-|Login section and private area| 50||
-|Timetable section|70||
+| Login section and private area | 50 |  |
+| Timetable section | 70 |  |
+
 ### 3.3 Iteration Plans
 #### 3.3.1 First Interation
 Each section except the timetable section working. Users are able to access all the utilities of the school available in the public area.
