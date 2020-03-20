@@ -2,13 +2,11 @@
 **Team 7**
 January 05, 2020
 
-**Team Members**<br>
-Matteo Corsi<br>
-Riccardo Convertino<br>
-Tommaso Osti<br>
-Riccardo Scardoni
-
-<br>
+**Team Members**  
+Matteo Corsi  
+Riccardo Convertino  
+Tommaso Osti  
+Riccardo Scardoni  
 
 Document Control
 
