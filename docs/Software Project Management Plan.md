@@ -1,44 +1,6 @@
 ## Software Project Management Plan
-<br>**Team 7**
+**Team 7**
 January 05, 2020
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 **Team Members**<br>
 Matteo Corsi<br>
@@ -62,44 +24,6 @@ This document is stored in the project documentation's GitHub repository at: [ht
 
 **Document Owner**
 Matteo Corsi is responsible for developing and maintaining this document.
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 ## Table of Contents
 **1 OVERVIEW** 3<br>
@@ -174,10 +98,10 @@ The project will be considered succesful if the minimum functionalities and the 
 | Tester | Matteo, Riccardo C., Tommaso, Riccardo S. | Write test cases and perform testing of test cases, report issues. |
 ### 2.2 Project Communications
 
-|Event|Information|Audience|Format|Frequency|
+| Event | Information | Audience | Format | Frequency |
 | --- | --- | --- | --- | --- |
-|Team Meeting|Task status: completed since last week & planned for next week, obstacles encountered, change requests in process |All team members|Informal meetings|As needed|
-|Project Status Report|Review finished items, status of prototype; review any problems, schedule slippage, programming issues|All team members, customer|Formal meeting and multimedia presentation|Iteration Closeout|
+| Team Meeting | Task status: completed since last week & planned for next week, obstacles encountered, change requests in process | All team members |Informal meetings | As needed |
+| Project Status Report | Review finished items, status of prototype; review any problems, schedule slippage, programming issues | All team members, customer | Formal meeting and multimedia presentation | Iteration Closeout |
 
 ### 2.3 Technical Process
 An iterative and incremental development process is planned.  Feedback will be used from each iteration to improve the next.  The first iteration will focus on basic functionality of the application.  Subsequent iterations will build upon that and incorporate more features as time allows.
@@ -196,14 +120,14 @@ In this document, tasks, roles, owners, and effort estimates & actuals are liste
 **Summary:** Demonstrate fundamental architecture and design,   
 each section except the timetable section working.
 
-|Features/Deliverables|Estimated effort|Actual Effort|
+| Features/Deliverables | Estimated effort | Actual Effort |
 | --- | --- | --- |
-|Architecture and overall design| 40|40|
-|Functioning sections|50|70|
+| Architecture and overall design | 40 | 40 |
+| Functioning sections | 50 | 70 |
 **Iteration #2:** 09/01/2020 - 23/04/2020
 **Summary:** Login section and private area functioning, orario section functioning.
-|Features/Deliverables|Estimated effort|Actual Effort|
-|-|-|-|-|
+| Features/Deliverables | Estimated effort | Actual Effort |
+| --- | --- | --- | --- |
 |Login section and private area| 50||
 |Timetable section|70||
 ### 3.3 Iteration Plans
@@ -216,12 +140,12 @@ The login section and the private area will properly work showning timetable sec
 ### 4.1 Monitoring and Control
 
 The following list of dates includes formal reviews outside of the Communication Plan.  Milestones are included to reference where the project is scheduled to stand as these reviews occur:
-|Date|Review / Milestone|
-|-|-|
-|24/10/2019|Milestone: Overall design complete|
-|19/12/2019|Milestone: Iteration #1 Complete<br>Delivery of the first prototype|
-|23/04/2020|Milestone: Iteration # 2 Complete|
-|14/05/2020|Milestone: Product Released<br>Final presentation|
+| Date | Review / Milestone |
+| --- | --- |
+| 24/10/2019 | Milestone: Overall design complete |
+| 19/12/2019 | Milestone: Iteration #1 Complete<br>Delivery of the first prototype |
+| 23/04/2020 | Milestone: Iteration # 2 Complete |
+| 14/05/2020 | Milestone: Product Released<br>Final presentation |
 ### 4.2 Configuration mangement Plan
 The following procedure is to be used when making changes to all baselined work products:
 
@@ -238,10 +162,10 @@ The following procedure is to be used when making changes to all baselined work 
 
 ## 5 Supporting Process Plans
 ### 5.1 Risk Management Plan
-|Rank|Risk|Probability of Loss|Size of Loss|Risk Esposure|Response|
-|-|-|-|-|-|-|
-|1|Schedule / time line delivery|Likely|Major|High|Mitigate: Stick to the schedule.|
-|2|Learning curve for new tools and technologies longer than expected|Unlikely|Moderate|Moderate|Begin working on a basic prototype to test fundamental programming concepts & knowledge.|
+| Rank | Risk | Probability of Loss | Size of Loss | Risk Esposure | Response |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Schedule / time line delivery | Likely | Major | High | Mitigate: Stick to the schedule. |
+| 2 | Learning curve for new tools and technologies longer than expected | Unlikely | Moderate | Moderate | Begin working on a basic prototype to test fundamental programming concepts & knowledge .|
 ### 5.2 Test Plan
 The test plan defines the items that will be tested, methods for testing, and a schedule detailing the tasks, owners, and time line.
 The test plan will be available in a separate document in the version control system at: [https://github.com/Fr0stBob/2020-5Ai-team7-Corsi/tree/master/docs](https://github.com/Fr0stBob/2020-5Ai-team7-Corsi/tree/master/docs)
