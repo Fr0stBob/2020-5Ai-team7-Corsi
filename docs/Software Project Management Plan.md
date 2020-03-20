@@ -69,13 +69,13 @@ The website is expected to:
 * Giving students, teachers and parents a place where they have grouped all the services provided by the school.
 ### 1.3 Project Deliverables
 
-24/10/2019 - Requirements Specification
-07/11/2019 - Project Plan and Iteration #1 Plan
-19/12/2019 - Iteration #1 Complete and delivery of the first prototype
-09/01/2020 Iteration #2 Plan
-23/04/2020 Iteration # 2 Complete
-30/04/2020 Testing of the project
-14/05/2020 Product Released
+24/10/2019 - Requirements Specification  
+07/11/2019 - Project Plan and Iteration #1 Plan  
+19/12/2019 - Iteration #1 Complete and delivery of the first prototype  
+09/01/2020 Iteration #2 Plan  
+23/04/2020 Iteration # 2 Complete  
+30/04/2020 Testing of the project  
+14/05/2020 Product Released  
 
 ### 1.4 Assumptions and Constraints
 #### 1.4.1 Assumptions
