@@ -23,46 +23,39 @@ Iteration #5 (07/05/2020 - ): Problems resolution and debug
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Ideation of the new website | 6 | 5 |
 
 ## Iteration #2
 **Objective:** The purpose of this iteration is to develop the website with all its functions
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Overall graphic style | 12 | 12 |
+| Re-creation of the main page | 18 | 19 |
+| Buttons link | 6 | 8 |
+| Orario and Info sections | 4 | 5 |
+| Sidebar | 6 | 5 |
 
 ## Iteration #3
 **Objective:** The purpose of this iteration is to check if requirements has been respected
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Requirements check | 1 | 1 |
 
 ## Iteration #4
 **Objective:** The purpose of this iteration is to develop and enhance the website with the new requirements
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Login and private section | 10 | 8 |
+| Orario section completed | 12 | 15 |
+| News section | 9 | 6 |
+
 
 ## Iteration #5
-**Objective:** The purpose of this iteration is to 
+**Objective:** The purpose of this iteration is to resolve roblems and debug the project
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Problem solving | - | - |
