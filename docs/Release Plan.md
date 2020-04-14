@@ -8,20 +8,15 @@
 
 ## Release Summary
 ### Initiation
-Iteration #1 ( - ): Requirements Exploration and Baseline Architecture
-### Elaboration
-Iteration #2 ( - ):
+Iteration #1 (17/10/2019 - 24/10/2019): Requirements Exploration and Baseline Architecture
 ### Construction
-Iteration #3 (13/03/2020 - 02/04/2020):  
-Iteration #4 (03/04/2020 - 09/04/2020):  
-Iteration #5 (10/04/2020 - 16/04/2020):  
-Iteration #6 (17/04/2020 - 30/04/2020):
+Iteration #2 (24/10/1029 - 19/12/2019): Developement of the website with all the functions
 ### Second initiation
-Iteration #7 ():  
-### Second elaboration
-Iteration #7 ():  
-### Second transition
-Iteration #8 (07/05/2020 - ): Problems resoltion and debug
+Iteration #3 (09/01/2020 - 16/01/2020): Check of requirements 
+### Second construction
+Iteration #4 (16/01/2020 - 07/05/2020): Second part of development with new requirements
+### Final transition
+Iteration #5 (07/05/2020 - ): Problems resolution and debug
 
 ## Iteration #1
 **Objective:** The purpose of this iteration is to understand system requirements to provide cost and schedule estimation for the project.
@@ -34,7 +29,7 @@ Iteration #8 (07/05/2020 - ): Problems resoltion and debug
 |  |  |  |
 
 ## Iteration #2
-**Objective:** The purpose of this iteration is to 
+**Objective:** The purpose of this iteration is to develop the website with all its functions
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
@@ -43,7 +38,7 @@ Iteration #8 (07/05/2020 - ): Problems resoltion and debug
 |  |  |  |
 
 ## Iteration #3
-**Objective:** The purpose of this iteration is to
+**Objective:** The purpose of this iteration is to check if requirements has been respected
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
@@ -53,7 +48,7 @@ Iteration #8 (07/05/2020 - ): Problems resoltion and debug
 |  |  |  |
 
 ## Iteration #4
-**Objective:** The purpose of this iteration is to 
+**Objective:** The purpose of this iteration is to develop and enhance the website with the new requirements
 
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
@@ -63,7 +58,8 @@ Iteration #8 (07/05/2020 - ): Problems resoltion and debug
 |  |  |  |
 
 ## Iteration #5
-**Objective:** The purpose of this iteration is to
+**Objective:** The purpose of this iteration is to 
+
 | Features / Activities / Deliverables | Estimated Effort | Actual Effort |
 | --- | --- | --- |
 |  |  |  |
