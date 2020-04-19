@@ -1,4 +1,4 @@
-## Architecture, Design and Coding standards
+# Architecture, Design and Coding standards
 **Team 7**
 April 19, 2020
 
