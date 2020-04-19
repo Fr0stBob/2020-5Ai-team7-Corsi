@@ -22,7 +22,7 @@ This documentation will provide instruction for accessing the website.
 ## 2  Access Website Code
 Access to the internet and the GitHub repository used to store the code are required. To access the code is needed also the permission from the group of developement or teachers involved in the project.
 
-## 3  System Maintenanced
+## 3  System Maintenance
 The interface consist of two main areas, the buttons area and the side nav. Each of them is implemented in the HTML + CSS + JS code. The server-side code is implemented in a separate PHP file.
 When accessing the website will be displayed the page with limited buttons available and the side nav. In the side nav the user is able to login with Classeviva Gruppo Spaggiari Parma credentials. By doing that the leggod in user is able to view all the buttons available and use all the elements of the website. The buttons allow users to access different school utilities while in the side nav there are the login/user area, a simple calendar and a section with the latest news.
 
