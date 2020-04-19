@@ -17,7 +17,7 @@ Riccardo Scardoni
 
 ## 1  Introduction
 The Webserver website allows users to simply access all ITI Marconi utilities in a single website.
-This documentation will provide instruction for accessing the website.
+This documentation will provide instruction for accessing the website code.
 
 ## 2  Access Website Code
 Access to the internet and the GitHub repository used to store the code are required. To access the code is needed also the permission from the group of developement or teachers involved in the project.
