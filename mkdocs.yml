@@ -7,6 +7,9 @@ nav:
     - 'Project Model Canvas': 'Project Model Canvas.pdf'
     - 'Business Model Canvas': 'Business Model Canvas.pdf'
     - 'Release Plan': 'Release Plan.md'
+    - 'System Requirements Specification': 'System Requirements Specification.md'
+    - 'Test Plan': 'Test Plan.md'
+    - 'Test Case Specification': 'Test Case Specification.md'
    
     
 theme:
