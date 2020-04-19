@@ -1,6 +1,6 @@
 # Project Success Criteria for Webserver Marconi
 
-**The Webserver Marconi project will be considered succesful if...**
+### The Webserver Marconi project will be considered succesful if...
 
 1. The right buttons with Orario section functioning, news section, login section and the private area will work completely at the end of the school year.
 
@@ -12,5 +12,8 @@
 
 5. The System is properly documented with all the necessary documentation in .pdf version.
 
+### Signatures
 
+Team and project manager:
 
+Project supervisor: 
