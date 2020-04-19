@@ -11,6 +11,10 @@ nav:
     - 'Test Plan': 'Test Plan.md'
     - 'Test Case Specification': 'Test Case Specification.md'
     - 'Project Success Criteria': 'Project Success Criteria.md'
+    - 'User Guide': 'User Guide.md'
+    - 'Architecture, Design and Coding standards': 'Architecture, Design and Coding standards.md'
+    - 'Iteration Plan': 'Iteration Plan.md'
+    - 'Memo of Understanding': 'Memo of Understanding.md'
    
     
 theme:
