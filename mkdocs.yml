@@ -1,7 +1,6 @@
 site_name: 2020_5AI_Team7
 
 nav:
-    - 'Data Protection Agreement': 'Data Protection Agreement.md'
     - 'Project Charter': 'Project Charter.md'
     - 'Software Requirements Specification': 'Software Requirements Specification.md'
     - 'Software Project Management Plan': 'Software Project Management Plan.md'
@@ -16,6 +15,7 @@ nav:
     - 'Architecture, Design and Coding standards': 'Architecture, Design and Coding standards.md'
     - 'Iteration Plan': 'Iteration Plan.md'
     - 'Memo of Understanding': 'Memo of Understanding.md'
+    - 'Data Protection Agreement': 'Data Protection Agreement.md'
    
     
 theme:
