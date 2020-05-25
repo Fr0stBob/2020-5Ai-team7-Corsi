@@ -16,6 +16,20 @@ nav:
     - 'Iteration Plan': 'Iteration Plan.md'
     - 'Memo of Understanding': 'Memo of Understanding.md'
     - 'Data Protection Agreement': 'Data Protection Agreement.md'
+    
+    - 'Project Charter': 'Project Charter.pdf'
+    - 'Software Requirements Specification': 'Software Requirements Specification.pdf'
+    - 'Software Project Management Plan': 'Software Project Management Plan.pdf'
+    - 'Release Plan': 'Release Plan.pdf'
+    - 'System Requirements Specification': 'System Requirements Specification.pdf'
+    - 'Test Plan': 'Test Plan.pdf'
+    - 'Test Case Specification': 'Test Case Specification.pdf'
+    - 'Project Success Criteria': 'Project Success Criteria.pdf'
+    - 'User Guide': 'User Guide.pdf'
+    - 'Architecture, Design and Coding standards': 'Architecture, Design and Coding standards.pdf'
+    - 'Iteration Plan': 'Iteration Plan.pdf'
+    - 'Memo of Understanding': 'Memo of Understanding.pdf'
+    - 'Data Protection Agreement': 'Data Protection Agreement.pdf'
    
     
 theme:
